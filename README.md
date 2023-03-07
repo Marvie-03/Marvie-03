@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kayveengee@gmail.com**
 
-- ⚡ Fun fact **A Sergej Fan**
+- ⚡ Fun fact **A Sergej-Millenkovic-Savic-21 Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
