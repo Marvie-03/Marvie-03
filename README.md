@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvellous</h1>
-<h3 align="center">A passionate Web developer from Nigeria</h3>
+<h3 align="center">A Web developer and Graphic Designer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/qimiao_nga" target="blank"><img src="https://img.shields.io/twitter/follow/Qimiao_NGA?logo=twitter&style=for-the-badge" alt="qimiao_nga" /></a> </p>
 
