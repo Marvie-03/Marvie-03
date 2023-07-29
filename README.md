@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marvellous</h1>
 <h3 align="center">A Web developer and Graphic Designer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/qimiao_nga" target="blank"><img src="https://img.shields.io/twitter/follow/Qimiao_NGA?logo=twitter&style=for-the-badge" alt="qimiao_nga" /></a> </p>
 
 - 🔭 I’m currently working on [Login-DB](https://github.com/Marvie-03/Login-SYS.git)
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Django**
+- 🌱 I’m currently learning ** NodeJs, Django**
 
 - 👯 I’m looking to collaborate on **Web development project**
 
@@ -21,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/qimiao_nga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qimiao_nga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marvellous-modupe-4461a1224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modupe marvellous" height="30" width="40" /></a>
 </p>
 
