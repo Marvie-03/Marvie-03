@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Login-DB](https://github.com/Marvie-03/Login-SYS.git)
 
-- 🌱 I’m currently learning ** NodeJs, Django**
+- 🌱 I’m currently learning **NodeJs, Django**
 
 - 👯 I’m looking to collaborate on **Web development project**
 
