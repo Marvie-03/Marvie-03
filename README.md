@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvellous</h1>
-<h3 align="center">A Web developer and Graphic Designer from Nigeria</h3>
+<h3 align="center">A Web developer </h3>
 
-
-- 🔭 I’m currently working on [Login-DB](https://github.com/Marvie-03/Login-SYS.git)
-
-- 🌱 I’m currently learning **NodeJs, Django**
 
 - 👯 I’m looking to collaborate on **Web development project**
 
