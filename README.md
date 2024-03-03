@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvellous</h1>
-<h3 align="center">A Web developer </h3>
+<h3 align="center">A Web developer and OSINT Specialist</h3>
 
 
 - 👯 I’m looking to collaborate on **Web development project**
@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marvie-03/](https://github.com/Marvie-03/)
 
-- 💬 Ask me about **PHP, HTML5, CSS3, VueJs**
+- 💬 Ask me about **PHP, HTML5, CSS3, ReactJs**
 
 - 📫 How to reach me **kayveengee@gmail.com**
 
-- ⚡ Fun fact **A Sergej-Millenkovic-Savic-21 Fan**
+- ⚡ Fun fact **I'll find you 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
