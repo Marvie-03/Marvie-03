@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** with **4 years of experience** crafting responsive, user-centric web applications. I specialize in **React**, **TypeScript**, and modern JavaScript frameworks, with a passion for creating seamless digital experiences that users love.
+I'm a **Frontend Developer** with over **4 years of experience** crafting responsive, user-centric web applications. I specialize in **React**, **TypeScript**, and modern JavaScript frameworks, with a passion for creating seamless digital experiences that users love.
 
 - 🔭 Currently working on **SaaS platforms** and **CMS solutions**
 - 🌱 Learning advanced **Node.js** and exploring **cloud technologies**
